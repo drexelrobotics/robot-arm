@@ -1,2 +1,2 @@
 # robot-arm
-Drexel Robotics Roboat Arm Project
+Drexel Robotics Robot Arm Project
